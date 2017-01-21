@@ -59,4 +59,5 @@
 Copyright © 2017 Ahmet Ozan Sivri asivri@fredonia.edu This work is free. You can redistribute it and/or modify it 
 under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.</p>
 
+<bold>Note: It can be licensed under  Do What The Fuck You Want To Public License it still can be necessary to refer Grey Zoned's video as a source.</bold>
 
