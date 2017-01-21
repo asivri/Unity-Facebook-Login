@@ -22,16 +22,20 @@
   <li>Create a new project on Unity.</li>
   <li>Import Facebook SDK Asset
 	<a href="http://hizliresim.com/GP77rr"><img src="http://i.hizliresim.com/GP77rr.png"></a>
+	<br>
   </li>
   <li>Create a new application on developers.facebook.com
    <a href="http://hizliresim.com/l3XXAQ"><img src="http://i.hizliresim.com/l3XXAQ.png"></a>
+   <br>
    </li>
    <li>Click to Edit Settings on Facebook tab. 
    <a href="http://hizliresim.com/X9GGZ5"><img src="http://i.hizliresim.com/X9GGZ5.png"></a>
+   <br>
    </li>
    <li>Get your Application name and ID on your app dashboard on developers.facebook.com. Copy that ID and paste on the inspector which opened on Unity.
    <a href="http://hizliresim.com/jXMMoW"><img src="http://i.hizliresim.com/jXMMoW.png"></a>
    <a href="http://hizliresim.com/Qv559j"><img src="http://i.hizliresim.com/Qv559j.png"></a>
+   <br>
    </li>
    <li>Paste the code in the script above to and empty script on Unity</li>
    <li>Create a new GUI</li>
@@ -41,6 +45,7 @@
    <li>Empty a new game object not under anything in hierarchy as a script contoller and drag and drop our script.</li>
    <li>Drag and drop necessary items as it shown below:
    <a href="http://hizliresim.com/3v55Q9"><img src="http://i.hizliresim.com/3v55Q9.png"></a>
+   <br>
    </li>
    <li>Run the game</li>
    <li>Unity will ask a User Access Token that you can reach <a href="https://developers.facebook.com/tools/accesstoken/">Here</a></li>
